@@ -4,7 +4,7 @@
   <title><![CDATA[Lyf]]></title>
   <link href="http://arunsanjay.github.com/atom.xml" rel="self"/>
   <link href="http://arunsanjay.github.com/"/>
-  <updated>2012-09-01T22:56:10-04:00</updated>
+  <updated>2012-09-05T23:50:03-05:00</updated>
   <id>http://arunsanjay.github.com/</id>
   <author>
     <name><![CDATA[firefox784]]></name>
@@ -16,9 +16,9 @@
   <entry>
     <title type="html"><![CDATA[Log4j Configuration JBoss AS 7.1]]></title>
     <link href="http://arunsanjay.github.com/blog/2012/09/01/log4j-configuration-jboss-as-7-dot-1/"/>
-    <updated>2012-09-01T22:52:00-04:00</updated>
+    <updated>2012-09-01T22:52:00-05:00</updated>
     <id>http://arunsanjay.github.com/blog/2012/09/01/log4j-configuration-jboss-as-7-dot-1</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>  We have been working on a project that needs to be migrated to JBoss AS 7.1</p>
 ]]></content>
   </entry>
   
