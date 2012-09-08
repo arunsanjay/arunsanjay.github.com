@@ -4,7 +4,7 @@
   <title><![CDATA[Lyf]]></title>
   <link href="http://arunsanjay.github.com/atom.xml" rel="self"/>
   <link href="http://arunsanjay.github.com/"/>
-  <updated>2012-09-08T18:27:15-05:00</updated>
+  <updated>2012-09-08T18:39:59-05:00</updated>
   <id>http://arunsanjay.github.com/</id>
   <author>
     <name><![CDATA[firefox784]]></name>
@@ -93,7 +93,7 @@ to place it in resources folder of the deployment.</li>
 
 
 <p>
-Replace the <war-deployment-name>,<jar-1-deployment-name>,<jar2-deployment-name> with the corresponding actual deployment archive names. It took me some time after pondering over, to figure out
+Replace the &lt;war-deployment-name&gt;,&lt;jar-1-deployment-name&gt;,&lt;jar2-deployment-name&gt; with the corresponding actual deployment archive names. It took me some time after pondering over, to figure out
 that the explicit exclusion has to be done for each sub-deployment and as well the name has to match with the sub-deployment name defined in the application.xml/ or the name of the actual sub-deployment. 
 </p>
 
