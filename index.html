@@ -100,7 +100,7 @@ The requirement here is, to have custom log4j configuration for the application 
 
 <ul>
 
-<li>1. Have log4j.xml in the classpath. Can be placed directly in the resources folder of any of your deployments, or placed directly in the lib folder of the EAR.If using Maven I would advice
+<li>1. Have log4j.xml in the classpath. Can be placed directly in the resources folder of any of your deployments, or placed directly in the lib folder of the EAR/WAR.If using Maven I would advice
 to place it in resources folder of the deployment.</li>
 <li>2. Define <a href="https://docs.jboss.org/author/display/AS7/Developer+Guide#DeveloperGuide-JBossDeploymentStructureFile">jboss-deployment-structure.xml</a> in META-INF , or in WEB-INF if war.</li>
 <li>3. Exclude log4j module to be used for your deployments by specifying it in the jboss-deployment-structure.xml as shown below. The reason being,  JBoss As  7.1 binds the logging module by default for the applications deployed in it. Hence it is required to explicitly exclude it in the deployments and it is also required to exclude for every sub deployment of your application, like if an EAR deployment is composed of multiple JAR deployments and WAR deployments it has to be mentioned explicitly for each one of them.</li>
