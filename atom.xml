@@ -4,7 +4,7 @@
   <title><![CDATA[Lyf]]></title>
   <link href="http://arunsanjay.github.com/atom.xml" rel="self"/>
   <link href="http://arunsanjay.github.com/"/>
-  <updated>2012-09-08T16:07:23-05:00</updated>
+  <updated>2012-09-08T16:18:31-05:00</updated>
   <id>http://arunsanjay.github.com/</id>
   <author>
     <name><![CDATA[firefox784]]></name>
@@ -18,7 +18,7 @@
     <link href="http://arunsanjay.github.com/blog/2012/09/01/log4j-configuration-jboss-as-7-dot-1/"/>
     <updated>2012-09-01T22:52:00-05:00</updated>
     <id>http://arunsanjay.github.com/blog/2012/09/01/log4j-configuration-jboss-as-7-dot-1</id>
-    <content type="html"><![CDATA[<p>  I had been working around this issue of setting up Log4j for an application running in JBoss AS 7.1 for some time, though there are posts in the JBoss website https://docs.jboss.org/author/display/AS71/How+To</p>
+    <content type="html"><![CDATA[<p>  I had been working around this issue of setting up Log4j for an application running in JBoss AS 7.1 for some time, though there are posts in the JBoss website [url]https://docs.jboss.org/author/display/AS71/How+To</p>
 ]]></content>
   </entry>
   
